@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin-top: 0px;
+}
+#start{
+    font-size: 18px;
+}
+#object_detected, #status{
+    font-size: 18px;
+}
+.footer{
+    background-color: black;
+    color: aqua;
+    line-height: 30px;
+    width: 100%;
+    bottom: 0px;
+    position: fixed;
+}
+canvas{
+    border: 5px, red, dashed;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 5px, 5px, 2px, aqua;
+}
